@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $# -eq 0 ];then
+if [ $# -ne 2 ];then
 echo "Usage: <ID> <Output name>"
 exit 0
 fi
