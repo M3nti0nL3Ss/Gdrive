@@ -1,5 +1,5 @@
 # Gdrive
-Download big files from google drive using wget only
+Download big files from google drive using wget only, AND DON'T WORRY ! YOU CAN RESUME DOWNLOADING AT ANY TIME :)
 
 ## Usage
 The file has to be public.
